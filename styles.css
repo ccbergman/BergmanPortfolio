@@ -1,0 +1,43 @@
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px gray;
+  margin: 20px;
+}
+
+.indexlink {
+  font-size: 2em;
+  margin: 20px 20px 20px 0;
+}
+
+.dogtype {
+  font-style: italic;
+}
+
+h1 {
+  font-family: 'Tangerine', serif;
+  font-size: 4em;
+}
+
+body {
+  background-color: rgba(63,127,191,0.3);
+}
+
+button {
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px gray;
+  background-color: #FFD9B3;
+}
+
+form {
+  border-style: groove;
+  border-width: medium;
+  padding: 10px;
+  background-color: #e6eeff;
+  margin-top: 20px;
+}
+
+input {
+  box-shadow: 2px 2px 5px gray;
+}
